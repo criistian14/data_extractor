@@ -1,0 +1,17 @@
+{
+    "@@locale": "es",
+    "counterAppBarTitle": "Contador",
+    "@counterAppBarTitle": {
+        "description": "Texto mostrado en la AppBar de la página del contador"
+    },
+    "notFoundTitle": "Not Found",
+    "login": "Iniciar sesión",
+    "logout": "Cerrar sesión",
+    "signup": "Registrarse",
+    "email": "Correo electrónico",
+    "enterEmail": "Introduzca su correo electrónico",
+    "password": "Contraseña",
+    "enterPassword": "Introduzca su contraseña",
+    "name": "Name",
+    "enterName": "Enter your name"
+}
